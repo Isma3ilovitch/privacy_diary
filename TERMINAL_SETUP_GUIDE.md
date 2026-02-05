@@ -8,10 +8,10 @@ A simple, terminal-based journaling app with local AI analysis.
 
 ## 📋 Prerequisites
 
-Same as before:
-- **macOS or Linux**
+
 - **Python 3.9+**
 - **Ollama** installed
+- **~4GB free RAM** (for running small LLM models)
 
 ---
 
