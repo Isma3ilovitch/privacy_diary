@@ -19,7 +19,7 @@ DATA_DIR = Path.home() / ".privacy_diary"
 ENTRIES_FILE = DATA_DIR / "diary_entries.enc"
 KEY_FILE = DATA_DIR / "diary.key"
 OLLAMA_HOST = "http://localhost:11434"
-DEFAULT_MODEL = "llama3"
+DEFAULT_MODEL = "llama3.2"
 
 # Create data directory if it doesn't exist
 DATA_DIR.mkdir(exist_ok=True)
